@@ -1,0 +1,9 @@
+JJJJJJJJJJ    AAAAAAAA     VV      VV    AAAAAAAA 
+    JJJJ     AAAAAAAAAA    VV      VV   AAAAAAAAAA
+    JJJJ     AAA    AAA     VV    VV    AAA    AAA
+    JJJJ     AAA    AAA     VV    VV    AAA    AAA
+    JJJJ     AAAAAAAAAA      VV  VV     AAAAAAAAAA
+J   JJJJ     AAAAAAAAAA      VV  VV     AAAAAAAAAA
+JJ  JJJJ     AAA    AAA       VVVV      AAA    AAA
+ JJJJJJJ     AAA    AAA       VVVV      AAA    AAA
+ JJJJJ       AAA    AAA        VV       AAA    AAA 
