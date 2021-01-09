@@ -1,6 +1,6 @@
 # program-chap01
 
-Write a program that displays the word JAVA in large block letters. Make each large letter out of the corresponding regular characters. It should look like this: (be sure to get the spacing correct; use your mouse or pointer to see where the spaces are)
+Write a program that displays the word JAVA in large block letters. Make each large letter out of the corresponding regular characters. It should look like this: (be sure to get the spacing correct. Feel free to copy and paste.)
 
 ```
 JJJJJJJJJJ    AAAAAAAA     VV      VV    AAAAAAAA 
